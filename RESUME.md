@@ -17,8 +17,30 @@
 
 ###### AirDroid
 
+[Link](http://www.airdroid.com)
+
+1.Leader the refatoring of golang project
+2.Make all backend services more scaleable and flexible
+3.Implement the Golang Common Library and help a lot with PhP Common Library
+4.Helped maintain the Server instance in AWS
+5.As mentor help interns get theirs jobs started quickly
+
+###### YiYuanJinbao
+
+[Link](http://www.yyjinbao.com)
+
+It's a online lottery-like Game.
+
+1.Implement the all backend services along 
+2.Design the backend services structure,include lottery-pool-generator,lottery-pool-manager,gift-distributer. All backend service is scalable,use MySQL,Redis,Mongodb
 
 ###### DuweiGameCenter
 
+It's a Front-end project,run in TV-box.
+
+Implement the simulate tv controller operation in WebSite,let user can use tv controller operate the web content smoothly.
 
 ###### DuweiGameServer
+
+
+
