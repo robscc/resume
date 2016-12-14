@@ -4,7 +4,7 @@
 * Date of Birth: 09-12-1988
 * College: South East University in Nanjing, China
 * Education: Bachelor Degree of Software Engineering
-* Email: robscc269@gmail.com or 346078894@qq.com
+* Email: robscc269@gmail.com
 * Github: [robscc](http://github.com/robscc)
 
 ### Skills
