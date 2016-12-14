@@ -36,7 +36,7 @@
 
 It's an online lottery-like Game App.
 
-- 1.Implemented all backend services along 
+- 1.Implemented all backend services alone. 
 - 2.Designed the backend services structure,include lottery-pool-generator,lottery-pool-manager,gift-distributer. Use MySQL, Redis, Mongodb to develop, all the backend services are scalable.
 
 ###### DuweiGameCenter
