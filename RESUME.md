@@ -3,7 +3,7 @@
 * Name: Chenchuan Song
 * Date of Birth: 09-12-1988
 * College: South East University in Nanjing, China
-* Major: Bachelor Degree of Software Engineering
+* Education: Bachelor Degree of Software Engineering
 * Email: robscc269@gmail.com or 346078894@qq.com
 * Github: [robscc](http://github.com/robscc)
 
