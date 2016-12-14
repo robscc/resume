@@ -11,7 +11,7 @@
 
 - Golang **Professional** I've been using Go in product since 2015, and I lead the refactoring of AirDroid Server. Focus on reuse-able Golang module developing.
 - PHP **Moderate** I have kept writing PHP project since 2010. I'm not interested in it, but I'm good at it.
-- SQL **Professional** I know enough SQL to get my job done and look up the documentation when it gets complicated. Work a lot with MySQL.
+- SQL **Professional** The adequate knowledge of SQL favors me to be able to finish my work, though I will look for help with documentation when it gets too complicated and beyond my ability. Work a lot with MySQL.
 - NoSQL **Professional** I like to use Redis or Mongodb to finish urgent features or do some trial refactoring. Know When & Why to use NoSQL to deal with problem.
 - Javascript I used to be a Javascript Programmer.For some reasons I transferred to be Golang programmer now.
 - OpenResty **Used** So I am familiar with Lua.
@@ -43,7 +43,7 @@ It's an online lottery-like Game App.
 
 It's a Front-end project,run in TV-box.
 
-- 1.Implemented the simulation on tv controller operation through WebSite,which allowed users to operate the web content smoothly.
+- 1.Implemented the simulation on TV controller operation through WebSite,which allowed users to operate the web content smoothly.
 
 ###### DuweiGameServer
 
