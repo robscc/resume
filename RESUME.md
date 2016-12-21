@@ -15,7 +15,7 @@
 - NoSQL **Professional** I like to use Redis or Mongodb to finish urgent features or do some trial refactoring. Know When & Why to use NoSQL to deal with problem.
 - Javascript I used to be a Javascript Programmer.For some reasons I transferred to be Golang programmer now.
 - OpenResty **Used** So I am familiar with Lua.
-- Bash Python Lua I use them to solve quick-done problem,such as log filting or data dumping etc.
+- Bash Python Lua I use them to solve quick-done problem,such as log filting or data dumping .etc.
 
 ### Experience
 
@@ -25,8 +25,8 @@
 
 - 1.Led the refatoring of Golang project
 - 2.Led the OpenResty Use in Server-Side Programming
-- 3.Make all backend services more scaleable and flexible
-- 4.Implement the Golang Common Library and help a lot with PHP Common Library
+- 3.Made all backend services more scaleable and flexible
+- 4.Implemented the Golang Common Library and help a lot with PHP Common Library
 - 5.Helped maintain the Server instance in AWS
 - 6.A mentor of AirDroid Server Team, helped interns to get their jobs started quickly and efficiently.
 
