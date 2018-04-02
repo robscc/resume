@@ -18,9 +18,11 @@
 ### 项目经历
 
 #### FrontRow (2017.01 ~ 今)
-[Link](https://www.frontrow.com.cn)
-[Link](https://www.frontrow.com)
-[Link](https://www.vlognow.me)
+[中区网站](https://www.frontrow.com.cn)
+
+[外区网站（需使用国外ip访问，否则自动CDN至中区](https://www.frontrow.com)
+
+[VLOGNOW App](https://www.vlognow.me)
 
 - 1. 设计数据库，设计服务器架构，抽象公共库。
 - 2. 设计灰度发布服务（app分发），实现成服务让客户端发布测试使用。
