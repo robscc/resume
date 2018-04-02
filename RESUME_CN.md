@@ -3,7 +3,7 @@
 * 宋晨川
 * 毕业院校：东南大学 软件学院
 * robsscc269@gmail.com
-* Github [robscc][https://github.com/robscc]
+* Github [robscc](https://github.com/robscc)
 
 ### 技能
 
