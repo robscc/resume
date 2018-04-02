@@ -36,7 +36,7 @@
 
 #### AirDroid (2015.06 ~ 2016.12)
 
-[AirDroid][http://www.airdroid.com]
+[AirDroid](http://www.airdroid.com)
 
 - 1. 主导重构主要API服务，流量计费服务。
 - 2. 优化主要服务，修复旧项目的性能问题，SQL优化，流程优化，代码Review,将主服务的性能提高2倍，降低主机配置参数降低为原配置的1/4。
