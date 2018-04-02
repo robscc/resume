@@ -39,13 +39,13 @@ It's an online lottery-like Game App.
 - 1.Implemented all backend services alone. 
 - 2.Designed the backend services structure,include lottery-pool-generator,lottery-pool-manager,gift-distributer. Use MySQL, Redis, Mongodb to develop, all the backend services are scalable.
 
-###### DuweiGameCenter
+###### TransmensionGameCenter
 
 It's a Front-end project,run in TV-box.
 
 - 1.Implemented the simulation on TV controller operation through WebSite,which allowed users to operate the web content smoothly.
 
-###### DuweiGameServer
+###### TransmensionGameServer
 
 PHP Project
 
