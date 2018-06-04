@@ -1,6 +1,7 @@
 ### 基本信息
 
 * 宋晨川
+* 出生年月：1988-12
 * 毕业院校：东南大学 软件学院
 * robsscc269@gmail.com
 * Github [robscc](https://github.com/robscc)
@@ -17,22 +18,34 @@
 
 ### 项目经历
 
+#### UUM （2018.01 ~ 今)
+
+- 1. 设计数据库，设计服务器架构.
+- 2. 设计基础API服务
+- 3. 为UUM设计边缘计算架构，并实现边缘计算Agent。
+
 #### FrontRow (2017.01 ~ 今)
 [中区网站](https://www.frontrow.com.cn)
 
-[外区网站（需使用国外ip访问，否则自动CDN至中区](https://www.frontrow.com)
+https://www.frontrow.com.cn
+
+[外区网站（需使用国外ip访问，否则自动CDN至中区)](https://www.frontrow.com)
+
+https://www.frontrow.com
 
 [VLOGNOW App](https://www.vlognow.me)
+
+https://www.vlognow.me
 
 - 1. 设计数据库，设计服务器架构，抽象公共库。
 - 2. 设计灰度发布服务（app分发），实现成服务让客户端发布测试使用。
 - 3. 设计并实现服务端API服务。
 - 4. 设计并实现可扩展的WebRTC信令服务器,实现多实例通信，适配AWS ALB。
 - 5. 修改[FRP](https://github.com/fatedier/frp)适应项目需求，并提供Android客户端可用的JNI包。
-- 5. 将所有服务容器化。
-- 6. 实现FrontRow设备自动化测试。
-- 7. 实现Gin框架的文档生成器，加速项目开发进度。
-- 8. 实现Slack Bot,将用户Feedback信息以及客户端发布信息及时反馈在团队聊天Channel中。
+- 6. 将所有服务容器化。
+- 7. 实现FrontRow设备自动化测试。
+- 8. 实现Gin框架的文档生成器，加速项目开发进度。
+- 9. 实现Slack Bot,将用户Feedback信息以及客户端发布信息及时反馈在团队聊天Channel中。
 
 #### AirDroid (2015.06 ~ 2016.12)
 
