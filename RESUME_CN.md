@@ -4,6 +4,7 @@
 * 出生年月：1988-12
 * 毕业院校：东南大学 软件学院
 * robsscc269@gmail.com
+* 18602188765
 * Github [robscc](https://github.com/robscc)
 
 ### 技能
@@ -32,6 +33,7 @@ https://www.frontrow.com.cn
 [外区网站（需使用国外ip访问，否则自动CDN至中区)](https://www.frontrow.com)
 
 https://www.frontrow.com
+https://cloud.frontrow.com
 
 [VLOGNOW App](https://www.vlognow.me)
 
@@ -63,4 +65,3 @@ https://www.vlognow.me
 - 2. 交通银行福建省分行 IT运维 2013.12 ~ 2015.06
 - 3. 同步网络有限公司 高级软件工程师，AirDroid服务端Leader 2015.06~2016.12
 - 4. Ubiquiti Networks 高级软件工程师，FrontRow/UUM服务端Leader 2017.01 ~ 今
-
