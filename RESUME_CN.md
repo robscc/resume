@@ -3,7 +3,7 @@
 * 宋晨川
 * 出生年月：1988-12
 * 毕业院校：东南大学 软件学院
-* robsscc269@gmail.com
+* robscc269@gmail.com
 * 18602188765
 * Github [robscc](https://github.com/robscc)
 
